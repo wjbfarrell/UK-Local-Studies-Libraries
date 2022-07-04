@@ -3,9 +3,9 @@
   "map_style": "./map-style-OSM.json",
   "data": [
     {
-      "name": "Peripleo_Data_1656945183.json",
+      "name": "test1.geojson",
       "format": "LINKED_PLACES",
-      "src": "UK-Local-Studies-Libraries/Peripleo_Data_1656945183.json",
+      "src": "UK-Local-Studies-Libraries/test1.geojson",
       "attribution":"William Farrell and CILIP Local Studies © <a href=\"https://www.cilip.org.uk/members/group_content_view.asp?group=201306&id=690679"</a>"
     }
   ],
