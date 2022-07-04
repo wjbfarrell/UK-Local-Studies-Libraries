@@ -3,9 +3,9 @@
   "map_style": "./map-style-OSM.json",
   "data": [
     {
-      "name": "VisitPlus",
+      "name": "Peripleo_Data_1656942305.json",
       "format": "LINKED_PLACES",
-      "src": "./data/VisitPlus-UK.lp.json",
+      "src": "./main/Peripleo_Data_1656942305.jsonn",
       "attribution": "VisitPlus © <a href=\"https://britishlibrary.github.io/locating-a-national-collection/\" target=\"_blank\"><i>Locating a National Collection</i> Partners & Contributors</a>"
     }
   ],
