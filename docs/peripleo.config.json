@@ -5,7 +5,7 @@
     {
       "name": "test1.geojson",
       "format": "GeoJSON",
-      "src": "UK-Local-Studies-Libraries/test1.geojson",
+      "src": "https://github.com/wjbfarrell/UK-Local-Studies-Libraries/blob/main/test1.geojson",
       "attribution":"William Farrell and CILIP Local Studies"
     }
   ],
