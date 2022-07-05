@@ -3,8 +3,8 @@
   "map_style": "./map-style-OSM.json",
   "data": [
     {
-      "name": "map (5).geojson",
-      "format": "GeoJSON",
+      "name": "uklslibraries.geojson",
+      "format": "geojson",
       "src": "UK-Local-Studies-Libraries/docs/data",
       "attribution":"William Farrell and CILIP Local Studies"
     }
