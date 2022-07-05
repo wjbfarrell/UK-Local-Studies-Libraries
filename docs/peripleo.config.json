@@ -5,7 +5,7 @@
     {
       "name": "uklslibraries.geojson",
       "format": "geojson",
-      "src": "UK-Local-Studies-Libraries/docs/data",
+      "src": "./data/uklslibraries.geojson",
       "attribution":"William Farrell and CILIP Local Studies"
     }
   ],
