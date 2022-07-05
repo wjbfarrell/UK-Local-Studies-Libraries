@@ -3,9 +3,9 @@
   "map_style": "./map-style-OSM.json",
   "data": [
     {
-      "name": "test1.geojson",
+      "name": "map (5).geojson",
       "format": "GeoJSON",
-      "src": "https://github.com/wjbfarrell/UK-Local-Studies-Libraries/blob/main/test1.geojson",
+      "src": "UK-Local-Studies-Libraries/docs/data",
       "attribution":"William Farrell and CILIP Local Studies"
     }
   ],
