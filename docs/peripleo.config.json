@@ -4,7 +4,7 @@
   "data": [
     {
            "format": "LINKED_PLACES",
-      "src": "./data/VisitPlus-UK.lp.json"
+      "src": "./data/uklslibraries_lpformat.json"
     }
   ],
    "facets": [
