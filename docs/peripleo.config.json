@@ -6,9 +6,8 @@
            "format": "LINKED_PLACES",
       "src": "./data/VisitPlus-UK.lp.json"
     }
-  ]
- }
-  "facets": [
+  ],
+   "facets": [
     "type"
   ],
   "link_icons": [
