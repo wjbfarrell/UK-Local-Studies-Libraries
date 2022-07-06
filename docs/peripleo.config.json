@@ -3,11 +3,11 @@
   "map_style": "./map-style-OSM.json",
   "data": [
     {
-      "name": "VisitPlus-UK.lp.json",
-      "format": "LINKED_PLACES",
-      "src": "docs/data/VisitPlus-UK.lp.json",
-      "attribution":"Example"}
-  ],
+           "format": "LINKED_PLACES",
+      "src": "./data/VisitPlus-UK.lp.json"
+    }
+  ]
+ }
   "facets": [
     "type"
   ],
