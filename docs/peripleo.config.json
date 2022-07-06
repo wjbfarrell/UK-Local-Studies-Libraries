@@ -3,7 +3,7 @@
   "map_style": "./map-style-OSM.json",
   "data": [
     {
-           "format": "geojson",
+           "format": "GeoJSON",
       "src": "./data/uklslibraries.geojson"
     }
   ],
