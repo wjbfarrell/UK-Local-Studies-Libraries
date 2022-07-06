@@ -3,11 +3,10 @@
   "map_style": "./map-style-OSM.json",
   "data": [
     {
-      "name": "uklslibraries_lpformat.json",
+      "name": "VisitPlus-UK.lp.json",
       "format": "LINKED_PLACES",
-      "src": "https://github.com/wjbfarrell/UK-Local-Studies-Libraries/tree/main/docs/data",
-      "attribution":"William Farrell and CILIP Local Studies"
-    }
+      "src": "docs/data/VisitPlus-UK.lp.json",
+      "attribution":"Example"}
   ],
   "facets": [
     "type"
