@@ -5,7 +5,7 @@
     {
       "name": "uklslibraries_lpformat.json",
       "format": "LINKED_PLACES",
-      "src": "./data/uklslibraries_lpformat.json",
+      "src": "https://github.com/wjbfarrell/UK-Local-Studies-Libraries/tree/main/docs/data",
       "attribution":"William Farrell and CILIP Local Studies"
     }
   ],
