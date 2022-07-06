@@ -3,8 +3,8 @@
   "map_style": "./map-style-OSM.json",
   "data": [
     {
-           "format": "LINKED_PLACES",
-      "src": "./data/uklslibraries_lpformat.json"
+           "format": "geojson",
+      "src": "./data/uklslibraries.geojson"
     }
   ],
    "facets": [
