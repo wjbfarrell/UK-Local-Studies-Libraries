@@ -4,7 +4,7 @@
   "data": [
     {
             "format": "GeoJSON",
-      "src": "https://github.com/wjbfarrell/UK-Local-Studies-Libraries/blob/main/docs/data/uklslibraries.geojson"
+      "src": "https://raw.githubusercontent.com/wjbfarrell/UK-Local-Studies-Libraries/main/docs/data/uklslibraries.geojson"
     }
   ],
    "facets": [
