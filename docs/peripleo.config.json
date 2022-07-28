@@ -3,8 +3,8 @@
   "map_style": "./map-style-OSM.json",
   "data": [
     {
-            "format": "GeoJSON",
-      "src": "https://raw.githubusercontent.com/wjbfarrell/UK-Local-Studies-Libraries/main/docs/data/uklslibraries.geojson"
+            "format": "JSON",
+      "src": "https://raw.githubusercontent.com/wjbfarrell/UK-Local-Studies-Libraries/main/docs/data/uklslibraries_lpformat.json"
     }
   ],
    "facets": [
